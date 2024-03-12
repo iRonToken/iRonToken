@@ -7,10 +7,10 @@ Website : https://irontoken.net/
 Telegram : https://irontoken.net/
 
 
-Twitter : https://twitter.com/_iRonOfficial_.
+Twitter : https://twitter.com/_iRonOfficial_
 
 
-           Medium : https://medium.com/@irontoken
+ Medium : https://medium.com/@irontoken
 
 Contract address : 0x8c18e10EA83b3131EB1296F1C50c1F3e924FE65f
 
