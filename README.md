@@ -7,7 +7,7 @@ Website : https://irontoken.net/
 Telegram : https://irontoken.net/
 
 
-Twitter : https://twitter.com/_iRonOfficial_
+Twitter : https://twitter.com/_iRonOfficial_/
 
 
  Medium : https://medium.com/@irontoken
